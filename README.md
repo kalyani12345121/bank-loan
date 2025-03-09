@@ -35,6 +35,17 @@ Collateral Type – The type of collateral associated with the loan (for secured
 
 Location – The location of the borrower (may be city, region, or country).
 
+# Use of the Data:
+Risk Management: The data allows the bank to assess and manage the risk of individual loans and the loan portfolio as a whole. The bank can evaluate which customers are more likely to default, which types of loans are performing better, and how to adjust future loan issuance strategies.
+
+Loan Monitoring: Banks use this data to track the progress of each loan, ensuring payments are made on time, and any defaults or issues are flagged for further action.
+
+Reporting and Compliance: The data helps the bank prepare reports for regulatory requirements, such as loan portfolios, risk assessments, and income from interest.
+
+Customer Segmentation: The bank can use the data to segment borrowers based on loan types, payment behavior, credit risk, etc., to target future products or interventions.
+
+By storing and organizing loan details systematically in a CSV format, the bank can easily generate summary statistics, graphs, or even integrate it with other systems for predictive modeling, customer service improvements, and business decision-making.
+
 
 # EDIT LINK FOR DATA SET
 
