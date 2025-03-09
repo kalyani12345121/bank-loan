@@ -49,6 +49,7 @@ By storing and organizing loan details systematically in a CSV format, the bank 
 
 # EDIT LINK FOR DATA SET
 
+https://github.com/kalyani12345121/bank-loan/blob/main/credit_test.xlsx
 
 # KPIS
  *COUNT THE TOTAL APPLICATIONS FROM CREDIT DATA SET
@@ -62,3 +63,5 @@ By storing and organizing loan details systematically in a CSV format, the bank 
  *SELECT AVG(CURRENT_LOAN_AMOUNT)<20000
  
 # DASH BOARD EDIT LINK
+
+https://github.com/kalyani12345121/bank-loan/blob/main/Screenshot%20(51).png
